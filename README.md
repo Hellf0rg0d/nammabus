@@ -43,7 +43,7 @@ Namma Bus is a Flutter-based public transport utility app designed to help users
 
 1.  **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/nammabus.git
+    git clone https://github.com/Hellf0rg0d/nammabus.git
     ```
 2.  **Install dependencies**:
     ```bash
